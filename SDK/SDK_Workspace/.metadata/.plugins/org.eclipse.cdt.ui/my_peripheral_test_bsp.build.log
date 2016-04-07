@@ -1,0 +1,6 @@
+12:06:05 **** Auto Build of project my_peripheral_test_bsp ****
+make -k all 
+Finished building libraries
+
+12:06:05 Build Finished (took 219ms)
+

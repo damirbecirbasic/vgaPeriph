@@ -1,0 +1,10 @@
+-batch 
+-create vgaperiphmem 
+-ver 1.00.a 
+-dir "C:\Users\student\Desktop\ra68-2013\lprs\v04\vezba23_3_16" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-ise 
+-driver 

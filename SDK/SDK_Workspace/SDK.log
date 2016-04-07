@@ -1,0 +1,79 @@
+13:03:10.381 INFO  - Processing command line option -hwspec C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+13:23:12.150 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+13:23:41.978 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+13:23:59.685 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+13:25:02.848 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+13:26:17.092 INFO  - FPGA configured successfully with bitstream "C:/materija/RA96-2013/LPRS2/vezba23_3_16/SDK/SDK_Workspace/vezba23_3_16_hw_platform/download.bit" 
+13:28:46.448 INFO  - FPGA configured successfully with bitstream "C:/materija/RA96-2013/LPRS2/vezba23_3_16/SDK/SDK_Workspace/vezba23_3_16_hw_platform/download.bit" 
+13:29:32.531 INFO  - System reset is completed. 
+13:44:32.835 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+13:44:32.835 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:03:45.147 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+11:04:01.778 INFO  - FPGA configured successfully with bitstream "C:/materija/RA96-2013/LPRS2/vezba23_3_16/SDK/SDK_Workspace/vezba23_3_16_hw_platform/download.bit" 
+11:33:19.485 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:38:23.538 INFO  - Processing command line option -hwspec C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+11:38:24.427 INFO  - The hardware specification for project 'vezba23_3_16_hw_platform' is different from C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+11:38:24.458 INFO  - Copied contents of C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml into \vezba23_3_16_hw_platform\system.xml. 
+11:38:24.458 INFO  - Copied contents of C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.bit into \vezba23_3_16_hw_platform\system.bit. 
+11:38:24.458 INFO  - Copied contents of C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system_bd.bmm into \vezba23_3_16_hw_platform\system_bd.bmm. 
+11:38:25.035 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+11:38:26.143 INFO  - Updating MSS for Board Support Package Project: helloWorld_bsp.
+		 The following driver assignments were removed:
+			Peripheral Instance: leds, driver: gpio_v3_01_a.
+		 The following new driver assignments were made:
+			Peripheral Instance: my_peripheral_0, driver: generic_v1_00_a.
+ 
+11:38:27.017 INFO  - Updating hardware inferred compiler options for helloWorld. 
+11:38:27.032 INFO  - Clearing existing target manager status. 
+11:41:12.284 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:42:12.549 INFO  - Processing command line option -hwspec C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+11:50:35.231 INFO  - Processing command line option -hwspec C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+11:50:36.822 INFO  - The hardware specification for project 'vezba23_3_16_hw_platform' is different from C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+11:50:36.838 INFO  - Copied contents of C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml into \vezba23_3_16_hw_platform\system.xml. 
+11:50:36.838 INFO  - Copied contents of C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.bit into \vezba23_3_16_hw_platform\system.bit. 
+11:50:36.838 INFO  - Copied contents of C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system_bd.bmm into \vezba23_3_16_hw_platform\system_bd.bmm. 
+11:50:37.259 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+11:50:39.334 INFO  - Updating MSS for Board Support Package Project: helloWorld_bsp.
+		 The following driver assignments were removed:
+			Peripheral Instance: dip_switches, driver: gpio_v3_01_a.
+ 
+11:50:40.472 INFO  - Updating hardware inferred compiler options for helloWorld. 
+11:50:40.488 INFO  - Clearing existing target manager status. 
+11:53:30.361 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:53:46.681 INFO  - Processing command line option -hwspec C:\materija\RA96-2013\LPRS2\vezba23_3_16\SDK\SDK_Export\hw\system.xml. 
+12:05:25.818 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:06:04.228 INFO  - FPGA configured successfully with bitstream "C:/materija/RA96-2013/LPRS2/vezba23_3_16/SDK/SDK_Workspace/vezba23_3_16_hw_platform/download.bit" 
+12:07:48.812 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+12:07:48.812 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

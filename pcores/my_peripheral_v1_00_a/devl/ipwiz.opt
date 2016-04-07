@@ -1,0 +1,9 @@
+-batch 
+-create my_peripheral 
+-ver 1.00.a 
+-dir "C:\materija\RA96-2013\LPRS2\vezba23_3_16" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-driver 

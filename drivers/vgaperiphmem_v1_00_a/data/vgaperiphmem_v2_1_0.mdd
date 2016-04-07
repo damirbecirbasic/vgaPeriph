@@ -1,0 +1,15 @@
+##############################################################################
+## Filename:          C:\Users\student\Desktop\ra68-2013\lprs\v04\vezba23_3_16/drivers/vgaperiphmem_v1_00_a/data/vgaperiphmem_v2_1_0.mdd
+## Description:       Microprocessor Driver Definition
+## Date:              Thu Apr 07 11:22:53 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+OPTION psf_version = 2.1.0;
+
+BEGIN DRIVER vgaperiphmem
+
+  OPTION supported_peripherals = (vgaperiphmem);
+  OPTION depends = (common_v1_00_a);
+  OPTION copyfiles = all;
+
+END DRIVER

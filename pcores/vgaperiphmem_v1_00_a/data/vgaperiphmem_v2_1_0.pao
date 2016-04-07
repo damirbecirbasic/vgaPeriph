@@ -1,0 +1,22 @@
+##############################################################################
+## Filename:          C:/Users/student/Desktop/ra68-2013/lprs/v04/vezba23_3_16/pcores/vgaperiphmem_v1_00_a/data/vgaperiphmem_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Apr 07 11:22:48 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib vgaperiphmem_v1_00_a user_logic vhdl
+lib vgaperiphmem_v1_00_a vgaperiphmem vhdl
+lib vgaperiphmem_v1_00_a char_rom vhdl
+lib vgaperiphmem_v1_00_a reg vhdl
+lib vgaperiphmem_v1_00_a char_rom_def vhdl
+lib vgaperiphmem_v1_00_a dcm25MHz vhdl
+lib vgaperiphmem_v1_00_a dcm50MHz vhdl
+lib vgaperiphmem_v1_00_a dcm75MHz vhdl
+lib vgaperiphmem_v1_00_a dcm108MHz vhdl
+lib vgaperiphmem_v1_00_a graphics_mem vhdl
+lib vgaperiphmem_v1_00_a text_mem vhdl
+lib vgaperiphmem_v1_00_a vga vhdl
+lib vgaperiphmem_v1_00_a vga_sync vhdl
+lib vgaperiphmem_v1_00_a vga_top vhdl
